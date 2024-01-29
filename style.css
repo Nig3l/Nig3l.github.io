@@ -88,6 +88,8 @@
 }
 
 #socials{
+    z-index: 2;
+    position: relative;
     margin:auto;
     max-width: 95%;
     width: fit-content;
